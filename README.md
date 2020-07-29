@@ -1,1 +1,3 @@
-# klinsky.github.io
+# CRUD Bot
+# npm i
+# npm run serve
